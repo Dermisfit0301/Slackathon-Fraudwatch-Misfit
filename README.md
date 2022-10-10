@@ -37,7 +37,9 @@ The identified patterns and insights will help us create a model which we will t
 
 **What's the problem we are dealing with?**
 
-Nowadays we live in a world that is now a global village. The era of technology has made the whole whorld a small digital village. You can get food, clothes and even a wife from the internet. There is a voluminous rise of internet commerce and hence transactions made online are 
+Nowadays we live in a world that is now a global village. The era of technology has made the whole whorld a small digital village. You can get food, clothes and even a wife from the internet. There is a voluminous rise of internet commerce and hence transactions made online are increasing by the minute everyday. This has caught the eyes of the criminals who have gone online as well and are trying to get a piece of the pie. 
+Fraudulent transactions are made by these criminals after they steal your credentials usually through fake apps, dating accounts etc. These are the transactions someone else makes and we end up paying for it. 
+Fraudulent transctions not only harm the customer but also the company as they are the ones who face the music. They have to deploy manpower to track it and to handle customers which leads to loss of not only time and energy but also reputation. 
 
 How can technology help?
 
