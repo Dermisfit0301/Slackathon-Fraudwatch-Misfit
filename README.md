@@ -9,19 +9,19 @@ NOTE: This is just a model or a layout, not the real program with practical usag
 
 2.Short description
 
-3.What's the problem?
+3.What's the problem we are dealing with?
 
 4.How can technology help?
 
-5. The idea
+5.Why I chose this topic?
 
-6. Demo video
+6.Demo video
 
 7.The architecture
 
-8. Long description
+8.Long description
 
-9. Project roadmap
+9.Project roadmap
 
 10.Live demo
 
@@ -41,14 +41,26 @@ Nowadays we live in a world that is now a global village. The era of technology 
 Fraudulent transactions are made by these criminals after they steal your credentials usually through fake apps, dating accounts etc. These are the transactions someone else makes and we end up paying for it. 
 Fraudulent transctions not only harm the customer but also the company as they are the ones who face the music. They have to deploy manpower to track it and to handle customers which leads to loss of not only time and energy but also reputation. 
 
-How can technology help?
+**How can technology help?**
 
-Optimize supply chain inventory - Technology to optimize supply chain inventory and to help quickly choose the best manufacturing plants to optimize inventory and minimize cost.
+Technology can play a role in preventing such transactions by calling out such fraudulent transactions. Machine learning when deployed properly can take into account patterns that lead to a fraud transaction and notify the bank to cancel the transaction. ML can identify user spending habits, location, time of spending etc and can easily identify if the transaction was legitimate or not. 
+The historical data of the users can be used to create a machine learning model and create an algortithm that can ensure that there is no such transactions.
 
-The idea
+**Why I chose this topic?**
 
-Using historical demand data to train a machine learning model, you can predict demand for certain items more accurately in the future, and ensure that your customers are able to purchase what they want.
+Machine Learning has a variety of applications and this application where I can use this to detect a fraudulent transaction seems intriguing as well as interesting. 
+I think this topic needs to be addressed as I myself have been a victim of a fraudulent transaction and I had to pay for credit card transactions which I didnt make. This is a personal reason why I chose to do this topic. Now if I talk about the professional reason, I found this topic to be a playground for using Machine Learning techniques. You can use both supervised and unsupervised techniques for this topic either to draw insights or to create an algorithm. I can use clustering to create groups of customers who are more likely to face a fraud or use PCA to find important components affecting the transactions. The possibility is endless and am excited to find out what it holds.
 
-Using this predicted demand as input, along with manufacturing plant data such as cost and capacity, this application enables a store manager to quickly choose the best manufacturing plants to optimize inventory and minimize cost.
+
+
+Demo video
+
+The architecture
+
+Long description
+
+Project roadmap
+Live demo
+
 
 
