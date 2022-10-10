@@ -3,35 +3,41 @@ This repository has been created for a competition called a slackathon. We are g
 I chose the topic of Payment Fraud Detection. I will be collecting data from various sources and would build an algorithm or you can say a layout to detect Payment frauds and block them. 
 NOTE: This is just a model or a layout, not the real program with practical usage.
 
-Contents
+**Contents**
 
-Submission or project name
+1.Project objective 
 
-Contents
+2.Short description
 
-Short description
+3.What's the problem?
 
-What's the problem?
+4.How can technology help?
 
-How can technology help?
+5. The idea
 
-The idea
+6. Demo video
 
-Demo video
+7.The architecture
 
-The architecture
+8. Long description
 
-Long description
+9. Project roadmap
 
-Project roadmap
+10.Live demo
 
-Live demo
+**Project objective **
 
-Short description
+The objective here is to come up with the algorithm that detects a fraudulent transaction.
 
-What's the problem?
+**Short description of the project**
 
-Optimize Supply Chain Inventory Super Effectively manage and optimize inventory by capturing variables such as lead times, manufac- turing frequency, batch size, and ordering policies from across the supply chain. Using algo- rithms, exception-based forecasts, and real-time downstream demand signals, suggest and adjust inventories to optimal levels. Maintain the right amount of inventory required to meet demand, keep logistics costs low, and avoid common inventory issues such as stockouts, over- stocking, and backorders.
+We are going to use past details of credit card transactions in order to see the patterns that leads to a fraudulent transaction. The patterns thus identified will help us form insights into the data and we will know which group of customers are more vulnerable and many more such facts. Tableau will be used to slice and dice the data which will help us understand the dataset through graphic vizualizations. 
+*We will include the file here.*
+The identified patterns and insights will help us create a model which we will train through machine learning methods which will help us determine a fraudulent transactions. The trained machine will be implemented on the testing dataset which will help us know the effectiveness of the model.
+
+**What's the problem we are dealing with?**
+
+Nowadays we live in a world that is now a global village. The era of technology has made the whole whorld a small digital village. You can get food, clothes and even a wife from the internet. There is a voluminous rise of internet commerce and hence transactions made online are 
 
 How can technology help?
 
