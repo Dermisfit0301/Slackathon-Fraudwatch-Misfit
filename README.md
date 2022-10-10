@@ -25,9 +25,9 @@ NOTE: This is just a model or a layout, not the real program with practical usag
 
 10.Live demo
 
-**Project objective **
+**Project objective**
 
-The objective here is to come up with the algorithm that detects a fraudulent transaction.
+The objective here is to come up with an algorithm that detects a fraudulent transaction.
 
 **Short description of the project**
 
