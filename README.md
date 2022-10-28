@@ -56,6 +56,8 @@ I think this topic needs to be addressed as I myself have been a victim of a fra
 Demo video
 
 The architecture
+![image](https://user-images.githubusercontent.com/70942004/198540840-f37aa793-a17e-45d9-8a0c-19187aebb978.png)
+
 
 Long description
 
