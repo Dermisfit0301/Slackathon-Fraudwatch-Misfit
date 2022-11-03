@@ -7,17 +7,17 @@ NOTE: This is just a model or a layout, not the real program with practical usag
 
 **Contents**
 
-1.[Project objective](#project-objective)
+1.[Project/objective](#project-objective)
 
-2.[Short description](#short-description)
+2.[Short/description](#short-description)
 
-3.[What's the problem we are dealing with?](#what's-the-problem-we-are-dealing-with?)
+3.[What's/the/problem/we/are/dealing/with?](#what's-the-problem-we-are-dealing-with?)
 
-4.[How can technology help?](#how-can-technology-help?)
+4.[How/can/technology/help?](#how-can-technology-help?)
 
-5.[Why I chose this topic?](#why-I-chose-this-topic?)
+5.[Why/I/chose/this/topic?](#why-I-chose-this-topic?)
 
-6.[Demo video](#demo-video)
+6.[Demo/video](#demo-video)
 
 7.[The architecture](#the-architecture)
 
