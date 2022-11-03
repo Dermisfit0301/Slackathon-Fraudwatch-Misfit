@@ -73,6 +73,7 @@ I think this topic needs to be addressed as I myself have been a victim of a fra
 
 ### **Project roadmap**
 ![image](https://user-images.githubusercontent.com/70942004/198540840-f37aa793-a17e-45d9-8a0c-19187aebb978.png)
+*Note:I am not a professional developer or a programmer. This is just a basic hackathon submission. Therefore i dont have any idea which application I would use for integration and further development of Fraudwatch. The basic algorithm is provided.  
 
 
 
