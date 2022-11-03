@@ -5,7 +5,7 @@ NOTE: This is just a model or a layout, not the real program with practical usag
 
 **Contents**
 
-1.Project objective [#Project-objective]
+1.Project objective (#Project-objective)
 
 2.Short description
 
