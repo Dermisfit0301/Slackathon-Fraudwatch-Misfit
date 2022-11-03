@@ -11,11 +11,11 @@ NOTE: This is just a model or a layout, not the real program with practical usag
 
 2.[Short description of the project](#short-description-of-the-project)
 
-3.[What is the problem we are dealing with](#what-is-the-problem-we-are-dealing-with?)
+3.[What is the problem we are dealing with](#what-is-the-problem-we-are-dealing-with)
 
-4.[How can technology help?](#how-can-technology-help?)
+4.[How can technology help?](#how-can-technology-help)
 
-5.[Why I chose this topic?](#why-I-chose-this-topic?)
+5.[Why I chose this topic?](#why-I-chose-this-topic)
 
 6.[Intro video](#intro-video)
 
