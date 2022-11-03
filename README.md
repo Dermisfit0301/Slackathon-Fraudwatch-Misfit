@@ -11,7 +11,7 @@ NOTE: This is just a model or a layout, not the real program with practical usag
 
 2.[Short description of the project](#short-description-of-the-project)
 
-3.[What's the problem we are dealing with](#whats-the-problem-we-are-dealing-with?)
+3.[What is the problem we are dealing with](#what-is-the-problem-we-are-dealing-with?)
 
 4.[How can technology help?](#how-can-technology-help?)
 
@@ -19,13 +19,11 @@ NOTE: This is just a model or a layout, not the real program with practical usag
 
 6.[Intro video](#intro-video)
 
-7.[The architecture](#the-architecture)
+7.[Long description](#long-description)
 
-8.[Long description](#long-description)
+8.[The structure](#the-structure)
 
-9.[The structure](#the-structure)
-
-10.[Project roadmap](#project-roadmap)
+9.[Project roadmap](#project-roadmap)
 
 
 ### **Project objective**
@@ -38,7 +36,7 @@ We are going to use past details of credit card transactions in order to see the
 *We will include the file here.*
 The identified patterns and insights will help us create a model which we will train through machine learning methods which will help us determine a fraudulent transactions. The trained machine will be implemented on the testing dataset which will help us know the effectiveness of the model.
 
-### **What's the problem we are dealing with?**
+### **What is the problem we are dealing with?**
 
 Nowadays we live in a world that is now a global village. The era of technology has made the whole whorld a small digital village. You can get food, clothes and even a wife from the internet. There is a voluminous rise of internet commerce and hence transactions made online are increasing by the minute everyday. This has caught the eyes of the criminals who have gone online as well and are trying to get a piece of the pie. 
 Fraudulent transactions are made by these criminals after they steal your credentials usually through fake apps, dating accounts etc. These are the transactions someone else makes and we end up paying for it. 
