@@ -1,6 +1,8 @@
 # slackathon-for-simplilearn-Payment-Fraud-Detection
 This repository has been created for a competition called a slackathon. We are given an imaginary business problem and we have to figure out a way to solve that problem.
+
 I chose the topic of Payment Fraud Detection. I will be collecting data from various sources and would build an algorithm or you can say a layout to detect Payment frauds and block them. 
+
 NOTE: This is just a model or a layout, not the real program with practical usage.
 
 **Contents**
