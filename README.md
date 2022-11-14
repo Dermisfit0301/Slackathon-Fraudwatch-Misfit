@@ -56,7 +56,8 @@ Machine Learning has a variety of applications and this application where I can 
 I think this topic needs to be addressed as I myself have been a victim of a fraudulent transaction and I had to pay for credit card transactions which I didnt make. This is a personal reason why I chose to do this topic. Now if I talk about the professional reason, I found this topic to be a playground for using Machine Learning techniques. You can use both supervised and unsupervised techniques for this topic either to draw insights or to create an algorithm. I can use clustering to create groups of customers who are more likely to face a fraud or use PCA to find important components affecting the transactions. The possibility is endless and I am bit to find out what it holds.
 
 ### **Intro video** 
-https://youtu.be/xr1UDPmW_80
+
+[(https://youtu.be/anMCIagcX1s)]
 
 
 ### **The working**
