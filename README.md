@@ -32,8 +32,8 @@ The objective here is to come up with an algorithm that detects a fraudulent tra
 
 ### **Short description of the project**
 The fraudulent transactions are the one that are not made by the card owners but by scammers. The objective of the algorithm is to catch such transactions.
-We are going to use past details of credit card transactions in order to see the patterns that leads to a fraudulent transaction. The patterns thus identified will help us form insights into the data and we will know which group of customers are more vulnerable and many more such facts. Tableau will be used to slice and dice the data which will help us understand the dataset through graphic vizualizations. 
-*We will include the file here.*
+We are going to use past details of credit card transactions in order to see the patterns that leads to a fraudulent transaction. The patterns thus identified will help us form insights into the data and we will know which group of customers are more vulnerable and many more such facts. 
+
 The identified patterns and insights will help us create a model which we will train through machine learning methods which will help us determine a fraudulent transactions. The trained machine will be implemented on the testing dataset which will help us know the effectiveness of the model.
 
 ### **What is the problem we are dealing with?**
