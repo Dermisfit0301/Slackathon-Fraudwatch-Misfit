@@ -78,6 +78,9 @@ https://youtu.be/xr1UDPmW_80
 
 7.The 20 lines are returned and we see which payments are fraud and which one are not. 
 
+![image](https://user-images.githubusercontent.com/70942004/201693234-8471cf1e-48f5-4576-bc40-81d312fb7521.png)
+
+
 **Note:** This whole process as of now is manual and is in a very small scale. The model needs to be automated using skilled programmers. A full fledged program is not within the scope of the Hackathon. We are just giving a basic prototype for the purpose of submission. 
 
 
