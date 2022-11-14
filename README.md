@@ -137,7 +137,7 @@ It had the following columns.
 
 Pandas used for data analysis and manipulation
 
-Numpy for mathematical formulae and stuff like that.
+Numpy for mathematical formulae and operations.
 
 Seaborn for data visualization
 
@@ -155,13 +155,18 @@ Xgboost gives us their classifier.
 
 **4.Data cleaning/organizing**
 
+The unnecessary columns that have no relevance were removed in this section.
+Also extremely high and low values were removed from the dataset.
+Outliers affect the machine learning procedure. 
+
+
 **5.Feature engineering** 
 
 Here I created new variables like Age using date of birth.
 I split the trans date and time into two seperate columns like transaction date and transaction time. 
 I created bins to categorize time of the incident and age groups. 
 I removed the unnecessary columns that hamper analysis. 
-
+These new columns created were added to the dataset.
 
 **6.Exploratory data analysis** 
 
