@@ -80,7 +80,7 @@ Here I will summarize the whole process of creating my algorithm from scratch. I
 
 **1.Dataset obtaining**
 
-I had obtained the dataset from Kaggle. It had around 150000 transactions and was divided into two parts. I merged the two datasets into one and used the new dataset for analysis.
+I had obtained the dataset from Kaggle. It had around 150000 transactions and was divided into two parts. I merged the two datasets into one and used the new dataset for analysis. I mounted the dataset in Google colaboratory as it was more convenient and easy to use than Jupyter Notebook which crashes. 
 
 **2.Dataset description**
 
@@ -135,10 +135,33 @@ It had the following columns.
 
 **3.Packages used**
 
+Pandas used for data analysis and manipulation
+
+Numpy for mathematical formulae and stuff like that.
+
+Seaborn for data visualization
+
+Matplotlib will help us visualize the data.
+
+Scipy for statistical functions.
+
+Sklearn package will help us with Machine learning 
+
+Ipywidgets for plotting.
+
+Date time package is for date and time operations. 
+
+Xgboost gives us their classifier.
 
 **4.Data cleaning/organizing**
 
 **5.Feature engineering** 
+
+Here I created new variables like Age using date of birth.
+I split the trans date and time into two seperate columns like transaction date and transaction time. 
+I created bins to categorize time of the incident and age groups. 
+I removed the unnecessary columns that hamper analysis. 
+
 
 **6.Exploratory data analysis** 
 
