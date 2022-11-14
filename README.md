@@ -79,11 +79,40 @@ https://youtu.be/xr1UDPmW_80
 Here I will summarize the whole process of creating my algorithm from scratch. I will cover every point in brief. 
 
 **1.Dataset obtaining**
+
 I had obtained the dataset from Kaggle. It had around 150000 transactions and was divided into two parts. I merged the two datasets into one and used the new dataset for analysis.
 
 **2.Dataset description**
+
 It had the following columns.
+
+**trans_date_trans_time
+cc_num
+merchant
+category
+amt
+first
+last
+gender
+street
+city
+state
+zip
+lat
+long
+city_pop
+job
+dob
+trans_num
+unix_time
+merch_lat
+merch_long
+is_fraud**
+
+
+
 **3.Packages used**
+
 
 **4.Data cleaning/organizing**
 
