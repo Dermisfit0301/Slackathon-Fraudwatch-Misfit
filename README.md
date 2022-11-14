@@ -170,10 +170,15 @@ These new columns created were added to the dataset.
 
 **6.Exploratory data analysis** 
 
+Summary statistics helped us get an idea about the data like the average age of the card holders, highest amount they spent etc. 
+In this section we do hypothesis testing in the form of ANOVA (more than two vategories) and T-test(two categories). 
+We did data visualization and did time series analysis and saw which time of day was fraud most likely to occur, so on and so forth. 
+
 **5.Model building**
 
 **6.Basic Algorithm**
 
+A basic algorithm is made that accepts 20 entries in the form of an array. The algorithm then tells which transaction is a fraud and which one is not. The algorithm detects a fraud on the principle of probability. The array has two variables 0 and 1. If the probability value of 0 is higher than the payment is not a fraud or if 1 is higher than the payment is a fraud. 
 
 
 
