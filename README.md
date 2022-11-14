@@ -25,6 +25,8 @@ NOTE: This is just a model or a layout, not the real program with practical usag
 
 9.[Project roadmap](#project-roadmap)
 
+10.[Acknowledgement](#Acknowledgement)
+
 
 ### **Project objective**
 
@@ -204,6 +206,13 @@ A basic algorithm is made that accepts 20 entries in the form of an array. The a
 *Note:I am not a professional developer or a programmer. This is just a basic hackathon submission. Therefore i dont have any idea which application I would use for integration and further development of Fraudwatch. The basic algorithm is provided*  
 
 
+### **Acknowledgement**
+
+I would first of all like to thank IBM and simplilearn to provide me with this opportunity to learn. 
+
+I would extend my thanks to Binu Midhun mam who has guided us newbies through the hackathon in a friendly and warm manner. 
+
+Last but not the least i would thank the websites and platforms like youtube for providing me with guidance and reference. 
 
 
 
