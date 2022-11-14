@@ -174,9 +174,14 @@ Summary statistics helped us get an idea about the data like the average age of 
 In this section we do hypothesis testing in the form of ANOVA (more than two vategories) and T-test(two categories). 
 We did data visualization and did time series analysis and saw which time of day was fraud most likely to occur, so on and so forth. 
 
-**5.Model building**
+**7.Model building**
 
-**6.Basic Algorithm**
+This is the main task of the whole exerice. The outliers have been removed and the data has been cleaned for usage. First we go for Principal Component Analysis to reduce the number of components so that the analysis is easier. The categorical variables are removed and only numerical variables are kept for analysis. 
+After doing the PCA, I dropped the idea as 4 to 5 principal components have the same amount of weightage. If i cant reduce the dimensions to 2 components then the whole purpose stands defeated. 
+
+Then I use classifier algorithms like decision trees, Random Forest classifier,XGB classifier, Logistic Regression etc. 
+
+**8.Basic Algorithm**
 
 A basic algorithm is made that accepts 20 entries in the form of an array. The algorithm then tells which transaction is a fraud and which one is not. The algorithm detects a fraud on the principle of probability. The array has two variables 0 and 1. If the probability value of 0 is higher than the payment is not a fraud or if 1 is higher than the payment is a fraud. 
 
