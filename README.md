@@ -86,28 +86,28 @@ I had obtained the dataset from Kaggle. It had around 150000 transactions and wa
 
 It had the following columns.
 
-**trans_date_trans_time
-cc_num
-merchant
-category
-amt
-first
-last
-gender
-street
-city
-state
-zip
-lat
-long
-city_pop
-job
-dob
-trans_num
-unix_time
-merch_lat
-merch_long
-is_fraud**
+**trans_date_trans_time**
+**cc_num**
+**merchant**
+**category**
+**amt**
+**first**
+**last**
+**gender**
+**street**
+**city**
+**state**
+**zip**
+**lat**
+**long**
+**city_pop**
+**job**
+**dob**
+**trans_num**
+**unix_time**
+**merch_lat**
+**merch_long**
+**is_fraud**
 
 
 
@@ -115,6 +115,10 @@ is_fraud**
 
 
 **4.Data cleaning/organizing**
+
+**5.Feature engineering** 
+
+**6.Exploratory data analysis** 
 
 **5.Model building**
 
