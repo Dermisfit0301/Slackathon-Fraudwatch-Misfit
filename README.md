@@ -74,8 +74,6 @@ https://youtu.be/xr1UDPmW_80
 
 ### **Long description**
 
-**Algorithm creation**
-
 Here I will summarize the whole process of creating my algorithm from scratch. I will cover every point in brief. 
 
 **1.Dataset obtaining**
@@ -157,6 +155,7 @@ Xgboost gives us their classifier.
 
 The unnecessary columns that have no relevance were removed in this section.
 Also extremely high and low values were removed from the dataset.
+These extreme values are called outliers. 
 Outliers affect the machine learning procedure. 
 
 
@@ -179,7 +178,9 @@ We did data visualization and did time series analysis and saw which time of day
 This is the main task of the whole exerice. The outliers have been removed and the data has been cleaned for usage. First we go for Principal Component Analysis to reduce the number of components so that the analysis is easier. The categorical variables are removed and only numerical variables are kept for analysis. 
 After doing the PCA, I dropped the idea as 4 to 5 principal components have the same amount of weightage. If i cant reduce the dimensions to 2 components then the whole purpose stands defeated. 
 
-Then I use classifier algorithms like decision trees, Random Forest classifier,XGB classifier, Logistic Regression etc. 
+In this scenario we need to use classifier algorithms like decision trees, Random Forest classifier,XGB classifier, Logistic Regression etc. The dataset can not be used directly for analysis. Hence we first encode the variables using One hot encoder and then use scaler to convert them to a scale i.e. Normalize them. The dataset is then split into two parts Training and Testing. 80% data is used for training where the machine identifies the patterns and then we test it on 20% data where we see if the machine is able to identify fraud correctly or not. The dataset is using Features(x) which are the scaled variables and using it to predict the class(y) which is 0 or 1. 
+
+We select the model with the highest F-score and AUC score. We select logistic regression as F-score is 1 and AUC score is 1. This means this model is the most accurate for use as a classifier algorithm. 
 
 **8.Basic Algorithm**
 
